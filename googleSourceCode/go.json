@@ -1,0 +1,231 @@
+{
+  "All-Projects": {
+    "name": "All-Projects",
+    "clone_url": "https://go.googlesource.com/All-Projects",
+    "description": "Access inherited by all other projects."
+  },
+  "arch": {
+    "name": "arch",
+    "clone_url": "https://go.googlesource.com/arch"
+  },
+  "benchmarks": {
+    "name": "benchmarks",
+    "clone_url": "https://go.googlesource.com/benchmarks",
+    "description": "Benchmarks for the perf dashboard"
+  },
+  "blog": {
+    "name": "blog",
+    "clone_url": "https://go.googlesource.com/blog",
+    "description": "The Go Blog"
+  },
+  "build": {
+    "name": "build",
+    "clone_url": "https://go.googlesource.com/build",
+    "description": "Continuous build and release infrastructure"
+  },
+  "cbro-scratch": {
+    "name": "cbro-scratch",
+    "clone_url": "https://go.googlesource.com/cbro-scratch",
+    "description": "Nothing to see here."
+  },
+  "crypto": {
+    "name": "crypto",
+    "clone_url": "https://go.googlesource.com/crypto",
+    "description": "Go supplementary cryptography libraries"
+  },
+  "debug": {
+    "name": "debug",
+    "clone_url": "https://go.googlesource.com/debug",
+    "description": "Debugging tools"
+  },
+  "dl": {
+    "name": "dl",
+    "clone_url": "https://go.googlesource.com/dl",
+    "description": "go get golang.org/dl/go1.N"
+  },
+  "example": {
+    "name": "example",
+    "clone_url": "https://go.googlesource.com/example",
+    "description": "Go example code"
+  },
+  "exp": {
+    "name": "exp",
+    "clone_url": "https://go.googlesource.com/exp",
+    "description": "Experimental and deprecated packages"
+  },
+  "gddo": {
+    "name": "gddo",
+    "clone_url": "https://go.googlesource.com/gddo",
+    "description": "godoc.org source"
+  },
+  "go": {
+    "name": "go",
+    "clone_url": "https://go.googlesource.com/go",
+    "description": "The Go Programming Language"
+  },
+  "gofrontend": {
+    "name": "gofrontend",
+    "clone_url": "https://go.googlesource.com/gofrontend",
+    "description": "gccgo"
+  },
+  "gollvm": {
+    "name": "gollvm",
+    "clone_url": "https://go.googlesource.com/gollvm"
+  },
+  "govulncheck-action": {
+    "name": "govulncheck-action",
+    "clone_url": "https://go.googlesource.com/govulncheck-action",
+    "description": "GitHub action for govulncheck"
+  },
+  "grpc-review": {
+    "name": "grpc-review",
+    "clone_url": "https://go.googlesource.com/grpc-review"
+  },
+  "image": {
+    "name": "image",
+    "clone_url": "https://go.googlesource.com/image",
+    "description": "Go supplementary image libraries"
+  },
+  "lint": {
+    "name": "lint",
+    "clone_url": "https://go.googlesource.com/lint",
+    "description": "This is a linter for Go source code."
+  },
+  "mobile": {
+    "name": "mobile",
+    "clone_url": "https://go.googlesource.com/mobile",
+    "description": "Go on Android and iOS devices"
+  },
+  "mod": {
+    "name": "mod",
+    "clone_url": "https://go.googlesource.com/mod"
+  },
+  "net": {
+    "name": "net",
+    "clone_url": "https://go.googlesource.com/net",
+    "description": "Go supplementary network libraries"
+  },
+  "oauth2": {
+    "name": "oauth2",
+    "clone_url": "https://go.googlesource.com/oauth2",
+    "description": "Go OAuth2 packages"
+  },
+  "perf": {
+    "name": "perf",
+    "clone_url": "https://go.googlesource.com/perf",
+    "description": "Performance measurement, storage, and analysis."
+  },
+  "pkgsite": {
+    "name": "pkgsite",
+    "clone_url": "https://go.googlesource.com/pkgsite",
+    "description": "Pkg.go.dev"
+  },
+  "pkgsite-metrics": {
+    "name": "pkgsite-metrics",
+    "clone_url": "https://go.googlesource.com/pkgsite-metrics",
+    "description": "Code to serve pkg.go.dev/metrics"
+  },
+  "playground": {
+    "name": "playground",
+    "clone_url": "https://go.googlesource.com/playground",
+    "description": "The Go Playground"
+  },
+  "proposal": {
+    "name": "proposal",
+    "clone_url": "https://go.googlesource.com/proposal",
+    "description": "Go Project Design Documents"
+  },
+  "protobuf": {
+    "name": "protobuf",
+    "clone_url": "https://go.googlesource.com/protobuf"
+  },
+  "review": {
+    "name": "review",
+    "clone_url": "https://go.googlesource.com/review",
+    "description": "Tool for working with Gerrit code reviews"
+  },
+  "scratch": {
+    "name": "scratch",
+    "clone_url": "https://go.googlesource.com/scratch"
+  },
+  "sublime-build": {
+    "name": "sublime-build",
+    "clone_url": "https://go.googlesource.com/sublime-build"
+  },
+  "sublime-config": {
+    "name": "sublime-config",
+    "clone_url": "https://go.googlesource.com/sublime-config"
+  },
+  "sync": {
+    "name": "sync",
+    "clone_url": "https://go.googlesource.com/sync",
+    "description": "Additional Go concurrency primitives"
+  },
+  "sys": {
+    "name": "sys",
+    "clone_url": "https://go.googlesource.com/sys",
+    "description": "Go packages for low-level interaction with the operating system"
+  },
+  "talks": {
+    "name": "talks",
+    "clone_url": "https://go.googlesource.com/talks",
+    "description": "Go Talks"
+  },
+  "telemetry": {
+    "name": "telemetry",
+    "clone_url": "https://go.googlesource.com/telemetry",
+    "description": "Go Telemetry services and libraries"
+  },
+  "term": {
+    "name": "term",
+    "clone_url": "https://go.googlesource.com/term",
+    "description": "Go terminal and console support"
+  },
+  "text": {
+    "name": "text",
+    "clone_url": "https://go.googlesource.com/text",
+    "description": "Go text processing support"
+  },
+  "time": {
+    "name": "time",
+    "clone_url": "https://go.googlesource.com/time",
+    "description": "Go supplementary time packages"
+  },
+  "tools": {
+    "name": "tools",
+    "clone_url": "https://go.googlesource.com/tools",
+    "description": "Go tools"
+  },
+  "tour": {
+    "name": "tour",
+    "clone_url": "https://go.googlesource.com/tour",
+    "description": "A Tour of Go"
+  },
+  "vgo": {
+    "name": "vgo",
+    "clone_url": "https://go.googlesource.com/vgo"
+  },
+  "vscode-go": {
+    "name": "vscode-go",
+    "clone_url": "https://go.googlesource.com/vscode-go",
+    "description": "Go extension for VS Code"
+  },
+  "vuln": {
+    "name": "vuln",
+    "clone_url": "https://go.googlesource.com/vuln",
+    "description": "x/vuln contains the database client and tools for the Go vulnerability database"
+  },
+  "vulndb": {
+    "name": "vulndb",
+    "clone_url": "https://go.googlesource.com/vulndb",
+    "description": "The Go Vulnerability Database"
+  },
+  "website": {
+    "name": "website",
+    "clone_url": "https://go.googlesource.com/website"
+  },
+  "xerrors": {
+    "name": "xerrors",
+    "clone_url": "https://go.googlesource.com/xerrors"
+  }
+}

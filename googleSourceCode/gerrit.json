@@ -1,0 +1,1107 @@
+{
+  "apps/analytics-etl": {
+    "name": "apps/analytics-etl",
+    "clone_url": "https://gerrit.googlesource.com/apps/analytics-etl",
+    "description": "Spark ETL to extra analytics data from Gerrit Projects using the Analytics plugin"
+  },
+  "apps/kibana-dashboard": {
+    "name": "apps/kibana-dashboard",
+    "clone_url": "https://gerrit.googlesource.com/apps/kibana-dashboard"
+  },
+  "apps/reviewit": {
+    "name": "apps/reviewit",
+    "clone_url": "https://gerrit.googlesource.com/apps/reviewit",
+    "description": "The \u0027Review It!?\u0027 app is an Android application for Gerrit that allows sorting of incoming changes and review of small/trivial changes.\n\nThis is not an official Google product."
+  },
+  "aws-gerrit": {
+    "name": "aws-gerrit",
+    "clone_url": "https://gerrit.googlesource.com/aws-gerrit",
+    "description": "Collection of AWS setup scripts for setting up Gerrit Code Review"
+  },
+  "bazlets": {
+    "name": "bazlets",
+    "clone_url": "https://gerrit.googlesource.com/bazlets",
+    "description": "Re-usable building blocks for Bazel build tool"
+  },
+  "buck": {
+    "name": "buck",
+    "clone_url": "https://gerrit.googlesource.com/buck"
+  },
+  "bucklets": {
+    "name": "bucklets",
+    "clone_url": "https://gerrit.googlesource.com/bucklets",
+    "description": "Reusable building blocks for Buck build system."
+  },
+  "Core-Plugins": {
+    "name": "Core-Plugins",
+    "clone_url": "https://gerrit.googlesource.com/Core-Plugins",
+    "description": "Parent project for core plugins in Gerrit."
+  },
+  "docker-gerrit": {
+    "name": "docker-gerrit",
+    "clone_url": "https://gerrit.googlesource.com/docker-gerrit",
+    "description": "Official Docker image of Gerrit Code Review"
+  },
+  "executablewar": {
+    "name": "executablewar",
+    "clone_url": "https://gerrit.googlesource.com/executablewar",
+    "description": "Support for running code directly from WAR files"
+  },
+  "gcompute-tools": {
+    "name": "gcompute-tools",
+    "clone_url": "https://gerrit.googlesource.com/gcompute-tools",
+    "description": "Tools for Google Compute Engine"
+  },
+  "gerrit": {
+    "name": "gerrit",
+    "clone_url": "https://gerrit.googlesource.com/gerrit",
+    "description": "Gerrit Code Review"
+  },
+  "gerrit.wiki": {
+    "name": "gerrit.wiki",
+    "clone_url": "https://gerrit.googlesource.com/gerrit.wiki",
+    "description": "Google Code Wiki repository for Gerrit",
+    "mirrored_from_url": "https://code.google.com/p/gerrit.wiki"
+  },
+  "gerrit-attic": {
+    "name": "gerrit-attic",
+    "clone_url": "https://gerrit.googlesource.com/gerrit-attic",
+    "description": "Aborted experiments and ancient revisions of Gerrit Code Review"
+  },
+  "gerrit-bug-reporter": {
+    "name": "gerrit-bug-reporter",
+    "clone_url": "https://gerrit.googlesource.com/gerrit-bug-reporter"
+  },
+  "gerrit-ci-scripts": {
+    "name": "gerrit-ci-scripts",
+    "clone_url": "https://gerrit.googlesource.com/gerrit-ci-scripts",
+    "description": "Scripts used for continuous integration builds of Gerrit"
+  },
+  "gerrit-fe-dev-helper": {
+    "name": "gerrit-fe-dev-helper",
+    "clone_url": "https://gerrit.googlesource.com/gerrit-fe-dev-helper"
+  },
+  "gerrit-installer": {
+    "name": "gerrit-installer",
+    "clone_url": "https://gerrit.googlesource.com/gerrit-installer",
+    "description": "Gerrit native installation packages for Windows, Linux and Mac OSX"
+  },
+  "gerrit-linter": {
+    "name": "gerrit-linter",
+    "clone_url": "https://gerrit.googlesource.com/gerrit-linter"
+  },
+  "gerrit-load-tests": {
+    "name": "gerrit-load-tests",
+    "clone_url": "https://gerrit.googlesource.com/gerrit-load-tests"
+  },
+  "gerrit-monitoring": {
+    "name": "gerrit-monitoring",
+    "clone_url": "https://gerrit.googlesource.com/gerrit-monitoring"
+  },
+  "gerrit-release-tools": {
+    "name": "gerrit-release-tools",
+    "clone_url": "https://gerrit.googlesource.com/gerrit-release-tools"
+  },
+  "gerrit-switch": {
+    "name": "gerrit-switch",
+    "clone_url": "https://gerrit.googlesource.com/gerrit-switch",
+    "description": "Chrome extension for switching between Gerrit GWT UI and PolyGerrit UI."
+  },
+  "gitblit": {
+    "name": "gitblit",
+    "clone_url": "https://gerrit.googlesource.com/gitblit",
+    "description": "Fork of https://github.com/gitblit/gitblit project"
+  },
+  "gitfs": {
+    "name": "gitfs",
+    "clone_url": "https://gerrit.googlesource.com/gitfs",
+    "description": "FUSE file system for lightweight android checkouts."
+  },
+  "gitiles": {
+    "name": "gitiles",
+    "clone_url": "https://gerrit.googlesource.com/gitiles",
+    "description": "A simple browser for Git repositories"
+  },
+  "git-repo": {
+    "name": "git-repo",
+    "clone_url": "https://gerrit.googlesource.com/git-repo",
+    "description": "repo - The Multiple Git Repository Tool"
+  },
+  "gs-maven-wagon": {
+    "name": "gs-maven-wagon",
+    "clone_url": "https://gerrit.googlesource.com/gs-maven-wagon",
+    "description": "Maven wagon provider for Google Storage for Developers.\n\nForked from https://github.com/elek/s3-maven-wagon"
+  },
+  "gwtexpui": {
+    "name": "gwtexpui",
+    "clone_url": "https://gerrit.googlesource.com/gwtexpui",
+    "description": "Extended UI tools for GWT.\n\nThis repository is deprecated. The code has been merged (with history) into gerrit as the gerrit-gwtexpui subdirectory."
+  },
+  "gwtorm": {
+    "name": "gwtorm",
+    "clone_url": "https://gerrit.googlesource.com/gwtorm",
+    "description": "Tiny ORM"
+  },
+  "hntu-test": {
+    "name": "hntu-test",
+    "clone_url": "https://gerrit.googlesource.com/hntu-test"
+  },
+  "homepage": {
+    "name": "homepage",
+    "clone_url": "https://gerrit.googlesource.com/homepage",
+    "description": "Source for Gerrit Code Review homepage at https://www.gerritcodereview.com/"
+  },
+  "homepage-test": {
+    "name": "homepage-test",
+    "clone_url": "https://gerrit.googlesource.com/homepage-test",
+    "description": "Source for https://gerritcodereview-test.gsrc.io/; playground area for homepage content changes."
+  },
+  "java-prettify": {
+    "name": "java-prettify",
+    "clone_url": "https://gerrit.googlesource.com/java-prettify",
+    "description": "Java port of Google Prettify"
+  },
+  "jgit": {
+    "name": "jgit",
+    "clone_url": "https://gerrit.googlesource.com/jgit"
+  },
+  "k8s-gerrit": {
+    "name": "k8s-gerrit",
+    "clone_url": "https://gerrit.googlesource.com/k8s-gerrit",
+    "description": "Kubernetes support for Gerrit Code Review"
+  },
+  "libs/modules/repomanager/cassandra": {
+    "name": "libs/modules/repomanager/cassandra",
+    "clone_url": "https://gerrit.googlesource.com/libs/modules/repomanager/cassandra"
+  },
+  "luci-config": {
+    "name": "luci-config",
+    "clone_url": "https://gerrit.googlesource.com/luci-config",
+    "description": "Configuration for Gerrit\u0027s LUCI setup for running continuous integration tests and builds."
+  },
+  "luci-test": {
+    "name": "luci-test",
+    "clone_url": "https://gerrit.googlesource.com/luci-test"
+  },
+  "modules/cache-chroniclemap": {
+    "name": "modules/cache-chroniclemap",
+    "clone_url": "https://gerrit.googlesource.com/modules/cache-chroniclemap",
+    "description": "Gerrit module for using the ChronicleMap as cache persistence layer"
+  },
+  "modules/cached-refdb": {
+    "name": "modules/cached-refdb",
+    "clone_url": "https://gerrit.googlesource.com/modules/cached-refdb",
+    "description": "Gerrit libModule to cache access to Git repositories\u0027 refdb"
+  },
+  "modules/cache-postgres": {
+    "name": "modules/cache-postgres",
+    "clone_url": "https://gerrit.googlesource.com/modules/cache-postgres"
+  },
+  "modules/events-broker": {
+    "name": "modules/events-broker",
+    "clone_url": "https://gerrit.googlesource.com/modules/events-broker",
+    "description": "Events Broker API for sending Gerrit Code Review events"
+  },
+  "modules/git-refs-filter": {
+    "name": "modules/git-refs-filter",
+    "clone_url": "https://gerrit.googlesource.com/modules/git-refs-filter",
+    "description": "Gerrit lib module to allow filtering out refs in the Git advertizing protocol phase"
+  },
+  "modules/global-refdb": {
+    "name": "modules/global-refdb",
+    "clone_url": "https://gerrit.googlesource.com/modules/global-refdb",
+    "description": "Global ref-database interface for use with a multi-site setup of Gerrit Code Review"
+  },
+  "modules/index-elasticsearch": {
+    "name": "modules/index-elasticsearch",
+    "clone_url": "https://gerrit.googlesource.com/modules/index-elasticsearch",
+    "description": "Gerrit libModule providing an index backend based on ElasticSearch"
+  },
+  "modules/virtualhost": {
+    "name": "modules/virtualhost",
+    "clone_url": "https://gerrit.googlesource.com/modules/virtualhost",
+    "description": "Module to split the projects\u0027 space into virtual hosts similarly to an HTTP server and different domain names."
+  },
+  "plugin-builder": {
+    "name": "plugin-builder",
+    "clone_url": "https://gerrit.googlesource.com/plugin-builder",
+    "description": "Builder for buck-based plugins."
+  },
+  "plugins/account": {
+    "name": "plugins/account",
+    "clone_url": "https://gerrit.googlesource.com/plugins/account",
+    "description": "Plugin to expose a self-service API and UX to manage accounts and associated personal information."
+  },
+  "plugins/admin-console": {
+    "name": "plugins/admin-console",
+    "clone_url": "https://gerrit.googlesource.com/plugins/admin-console",
+    "description": "Provides information via SSH commands to Gerrit Administrators."
+  },
+  "plugins/analytics": {
+    "name": "plugins/analytics",
+    "clone_url": "https://gerrit.googlesource.com/plugins/analytics"
+  },
+  "plugins/analytics-wizard": {
+    "name": "plugins/analytics-wizard",
+    "clone_url": "https://gerrit.googlesource.com/plugins/analytics-wizard",
+    "description": "Wizard to provision a new GerritAnalytics stack"
+  },
+  "plugins/approval-extension": {
+    "name": "plugins/approval-extension",
+    "clone_url": "https://gerrit.googlesource.com/plugins/approval-extension",
+    "description": "Small example plug-in demoing extension points for manipulating approvals."
+  },
+  "plugins/approver-annotator": {
+    "name": "plugins/approver-annotator",
+    "clone_url": "https://gerrit.googlesource.com/plugins/approver-annotator"
+  },
+  "plugins/audit-sl4j": {
+    "name": "plugins/audit-sl4j",
+    "clone_url": "https://gerrit.googlesource.com/plugins/audit-sl4j",
+    "description": "Plugin for logging audit events using a SLF4J appender"
+  },
+  "plugins/auth-htpasswd": {
+    "name": "plugins/auth-htpasswd",
+    "clone_url": "https://gerrit.googlesource.com/plugins/auth-htpasswd",
+    "description": "Plugin for Apache htpasswd based authentication."
+  },
+  "plugins/automerger": {
+    "name": "plugins/automerger",
+    "clone_url": "https://gerrit.googlesource.com/plugins/automerger"
+  },
+  "plugins/autosubmitter": {
+    "name": "plugins/autosubmitter",
+    "clone_url": "https://gerrit.googlesource.com/plugins/autosubmitter",
+    "description": "A plugin that takes care of automatically submitting changes when all approvals and preconditions are satisfied."
+  },
+  "plugins/auto-topic": {
+    "name": "plugins/auto-topic",
+    "clone_url": "https://gerrit.googlesource.com/plugins/auto-topic"
+  },
+  "plugins/avatars/external": {
+    "name": "plugins/avatars/external",
+    "clone_url": "https://gerrit.googlesource.com/plugins/avatars/external",
+    "description": "[DEPRECATED replacedBy\u003d\"plugins/avatars-external\"]"
+  },
+  "plugins/avatars/gravatar": {
+    "name": "plugins/avatars/gravatar",
+    "clone_url": "https://gerrit.googlesource.com/plugins/avatars/gravatar",
+    "description": "[DEPRECATED replacedBy\u003d\"plugins/avatars-gravatar\"]"
+  },
+  "plugins/avatars-external": {
+    "name": "plugins/avatars-external",
+    "clone_url": "https://gerrit.googlesource.com/plugins/avatars-external",
+    "description": "Enables to set a custom URL to load avatars from."
+  },
+  "plugins/avatars-gravatar": {
+    "name": "plugins/avatars-gravatar",
+    "clone_url": "https://gerrit.googlesource.com/plugins/avatars-gravatar",
+    "description": "Plugin to display user icons from Gravatar."
+  },
+  "plugins/aws-dynamodb-refdb": {
+    "name": "plugins/aws-dynamodb-refdb",
+    "clone_url": "https://gerrit.googlesource.com/plugins/aws-dynamodb-refdb",
+    "description": "AWS DynamoDB shared ref-database implementation"
+  },
+  "plugins/batch": {
+    "name": "plugins/batch",
+    "clone_url": "https://gerrit.googlesource.com/plugins/batch",
+    "description": "The batch plugin provides a mechanism for building and\npreviewing sets of proposed updates to multiple\nprojects/branches/refs that should be applied together. The\nfocus of batch updates tend to be verification (by CI\nsystems).  The batch update service provides the tools to\nbuild refs by merging changes to temporary “snapshot” refs,\nwhich can then be tested extensively, and finally submitted\n”as is\"."
+  },
+  "plugins/branch-network": {
+    "name": "plugins/branch-network",
+    "clone_url": "https://gerrit.googlesource.com/plugins/branch-network",
+    "description": "Plug-in to display and navigate Git branches in a HTML5 canvas network"
+  },
+  "plugins/cfoauth": {
+    "name": "plugins/cfoauth",
+    "clone_url": "https://gerrit.googlesource.com/plugins/cfoauth",
+    "description": "Plugin to authenticate with a CloudFoundry User Account and Authentication server using OAuth2 protocol."
+  },
+  "plugins/change-head": {
+    "name": "plugins/change-head",
+    "clone_url": "https://gerrit.googlesource.com/plugins/change-head",
+    "description": "[DEPRECATED]\n\nShift what the HEAD symbolic-ref points to."
+  },
+  "plugins/change-labels": {
+    "name": "plugins/change-labels",
+    "clone_url": "https://gerrit.googlesource.com/plugins/change-labels"
+  },
+  "plugins/changemessage": {
+    "name": "plugins/changemessage",
+    "clone_url": "https://gerrit.googlesource.com/plugins/changemessage",
+    "description": "This plugin allows to display a static info message on the change screen.\n\nIt\u0027s main purpose is to serve as an example plugin and as a base for building plugins with a more sophisticated logic for displaying change info messages."
+  },
+  "plugins/checks": {
+    "name": "plugins/checks",
+    "clone_url": "https://gerrit.googlesource.com/plugins/checks",
+    "description": "This plugin provides a REST API and UI extensions for integrating CI systems with Gerrit."
+  },
+  "plugins/checks-jenkins": {
+    "name": "plugins/checks-jenkins",
+    "clone_url": "https://gerrit.googlesource.com/plugins/checks-jenkins"
+  },
+  "plugins/cloud-notifications": {
+    "name": "plugins/cloud-notifications",
+    "clone_url": "https://gerrit.googlesource.com/plugins/cloud-notifications",
+    "description": "A plugin to obtain push event notifications through Firebase Cloud Messaging (FCM)."
+  },
+  "plugins/code-coverage": {
+    "name": "plugins/code-coverage",
+    "clone_url": "https://gerrit.googlesource.com/plugins/code-coverage"
+  },
+  "plugins/codemirror-editor": {
+    "name": "plugins/codemirror-editor",
+    "clone_url": "https://gerrit.googlesource.com/plugins/codemirror-editor",
+    "description": "CodeMirror plugin for PolyGerrit"
+  },
+  "plugins/code-owners": {
+    "name": "plugins/code-owners",
+    "clone_url": "https://gerrit.googlesource.com/plugins/code-owners",
+    "description": "The code-owners plugin provides support for defining code owners for files in a repository. \n\nIf the code-owners plugin is enabled, changes can only be submitted if all touched files are covered by approvals from code owners."
+  },
+  "plugins/commit-message-length-validator": {
+    "name": "plugins/commit-message-length-validator",
+    "clone_url": "https://gerrit.googlesource.com/plugins/commit-message-length-validator",
+    "description": "Plugin to validate that commit messages conform to length limits."
+  },
+  "plugins/commit-validator-sample": {
+    "name": "plugins/commit-validator-sample",
+    "clone_url": "https://gerrit.googlesource.com/plugins/commit-validator-sample",
+    "description": "Sample validator to accept, refuse or provide warnings on Git commit changes during push."
+  },
+  "plugins/cookbook-plugin": {
+    "name": "plugins/cookbook-plugin",
+    "clone_url": "https://gerrit.googlesource.com/plugins/cookbook-plugin",
+    "description": "Examples of plugin API usage."
+  },
+  "plugins/copyright": {
+    "name": "plugins/copyright",
+    "clone_url": "https://gerrit.googlesource.com/plugins/copyright",
+    "description": "WIP: Copyright scanner to require qualified review when needed"
+  },
+  "plugins/delete-project": {
+    "name": "plugins/delete-project",
+    "clone_url": "https://gerrit.googlesource.com/plugins/delete-project",
+    "description": "A plugin which allows projects to be deleted from Gerrit via an SSH command"
+  },
+  "plugins/depends-on": {
+    "name": "plugins/depends-on",
+    "clone_url": "https://gerrit.googlesource.com/plugins/depends-on"
+  },
+  "plugins/donation-button": {
+    "name": "plugins/donation-button",
+    "clone_url": "https://gerrit.googlesource.com/plugins/donation-button",
+    "description": "Make a donation button to Shawn Pearce Memorial Fund"
+  },
+  "plugins/download-commands": {
+    "name": "plugins/download-commands",
+    "clone_url": "https://gerrit.googlesource.com/plugins/download-commands",
+    "description": "Adds the standard download schemes and commands."
+  },
+  "plugins/egit": {
+    "name": "plugins/egit",
+    "clone_url": "https://gerrit.googlesource.com/plugins/egit",
+    "description": "[DEPRECATED]\n\nThis plugin provides extensions for easier usage with EGit.\n\nThe plugin adds a download command for EGit that allows to copy only the change ref into the clipboard. The change ref is needed for downloading a Gerrit change from within EGit.\n\nThis plugin is deprecated because since long time EGit doesn\u0027t need the download string created by the egit plugin anymore but understands any link to a gerrit change."
+  },
+  "plugins/emoticons": {
+    "name": "plugins/emoticons",
+    "clone_url": "https://gerrit.googlesource.com/plugins/emoticons",
+    "description": "Plugin that allows users to see emoticons in comments as\nimages."
+  },
+  "plugins/events": {
+    "name": "plugins/events",
+    "clone_url": "https://gerrit.googlesource.com/plugins/events",
+    "description": "The events plugin adds a stream events API which parallels\nthe core stream events API with extensions to resume events\non reconnect.  Each event is stored in a separate file in a traditional filesystem.  This plugin is multi-master friendly when the filesystem is shared among the masters."
+  },
+  "plugins/events-aws-kinesis": {
+    "name": "plugins/events-aws-kinesis",
+    "clone_url": "https://gerrit.googlesource.com/plugins/events-aws-kinesis",
+    "description": "Gerrit events listener to send events to AWS Kinesis broker."
+  },
+  "plugins/events-gcloud-pubsub": {
+    "name": "plugins/events-gcloud-pubsub",
+    "clone_url": "https://gerrit.googlesource.com/plugins/events-gcloud-pubsub",
+    "description": "Gerrit events listener to send events to an external GCloud PubSub broker."
+  },
+  "plugins/events-kafka": {
+    "name": "plugins/events-kafka",
+    "clone_url": "https://gerrit.googlesource.com/plugins/events-kafka",
+    "description": "Gerrit events listener to send events to an external Apache Kafka broker."
+  },
+  "plugins/events-log": {
+    "name": "plugins/events-log",
+    "clone_url": "https://gerrit.googlesource.com/plugins/events-log",
+    "description": "This plugin listens to stream events and stores them in a database. The events can be retrieved through REST API."
+  },
+  "plugins/events-nats": {
+    "name": "plugins/events-nats",
+    "clone_url": "https://gerrit.googlesource.com/plugins/events-nats",
+    "description": "Gerrit events listener to send events to an external NATS broker"
+  },
+  "plugins/events-rabbitmq": {
+    "name": "plugins/events-rabbitmq",
+    "clone_url": "https://gerrit.googlesource.com/plugins/events-rabbitmq",
+    "description": "Gerrit events listener to send events to an external RabbitMQ broker."
+  },
+  "plugins/evict-cache": {
+    "name": "plugins/evict-cache",
+    "clone_url": "https://gerrit.googlesource.com/plugins/evict-cache",
+    "description": "[DEPRECATED replacedBy\u003d\"plugins/high-availability\"]\n\nAllows to synchronize the eviction of caches between two Gerrit instances sharing the same repositories and database\n\nAs of branch 2.13, this plugin is deprecated. The functionality has been merged into\n\nhttps://gerrit-review.googlesource.com/#/admin/projects/plugins/high-availability"
+  },
+  "plugins/examples": {
+    "name": "plugins/examples",
+    "clone_url": "https://gerrit.googlesource.com/plugins/examples",
+    "description": "Collection of example plugins for Gerrit Code Review."
+  },
+  "plugins/find-owners": {
+    "name": "plugins/find-owners",
+    "clone_url": "https://gerrit.googlesource.com/plugins/find-owners",
+    "description": "Deprecated: Use the code-owners plugin instead.\n\nPlugin to check for Android and Chromium style OWNERS approval before submit and find owners for a revision."
+  },
+  "plugins/force-draft": {
+    "name": "plugins/force-draft",
+    "clone_url": "https://gerrit.googlesource.com/plugins/force-draft",
+    "description": "[DEPRECATED]\n\nProvides an ssh command to force a change or patch set to draft status."
+  },
+  "plugins/gc-conductor": {
+    "name": "plugins/gc-conductor",
+    "clone_url": "https://gerrit.googlesource.com/plugins/gc-conductor",
+    "description": "This plugin provides an automated way of detecting, managing and cleaning up (garbage collecting) the \u0027dirty\u0027 repositories in a Gerrit instance."
+  },
+  "plugins/gerrit-support": {
+    "name": "plugins/gerrit-support",
+    "clone_url": "https://gerrit.googlesource.com/plugins/gerrit-support",
+    "description": "Plugin to collect information on Gerrit Code Review setup for requesting support."
+  },
+  "plugins/gitblit": {
+    "name": "plugins/gitblit",
+    "clone_url": "https://gerrit.googlesource.com/plugins/gitblit",
+    "description": "GitBlit code-viewer plug-in with SSO and Security Access Control"
+  },
+  "plugins/gitgroups": {
+    "name": "plugins/gitgroups",
+    "clone_url": "https://gerrit.googlesource.com/plugins/gitgroups",
+    "description": "GroupBackend using text files stored in Git"
+  },
+  "plugins/github": {
+    "name": "plugins/github",
+    "clone_url": "https://gerrit.googlesource.com/plugins/github",
+    "description": "Plugin to integrate with GitHub: replication, pull-request to Change-Sets"
+  },
+  "plugins/github-groups": {
+    "name": "plugins/github-groups",
+    "clone_url": "https://gerrit.googlesource.com/plugins/github-groups",
+    "description": "Group backend implementation to use GitHub Organisations and Teams as Gerrit Groups"
+  },
+  "plugins/github-profile": {
+    "name": "plugins/github-profile",
+    "clone_url": "https://gerrit.googlesource.com/plugins/github-profile",
+    "description": "GitHub-Profile integration for migrating and synchronising your GitHub e-mail address and SSH Keys with Gerrit"
+  },
+  "plugins/github-pullrequest": {
+    "name": "plugins/github-pullrequest",
+    "clone_url": "https://gerrit.googlesource.com/plugins/github-pullrequest",
+    "description": "Import existing GitHub Pull Requests as Gerrit Changes and Patch-Sets with one click."
+  },
+  "plugins/github-replication": {
+    "name": "plugins/github-replication",
+    "clone_url": "https://gerrit.googlesource.com/plugins/github-replication",
+    "description": "Replication wizard for importing and configuring GitHub repos as Gerrit slaves replicas with a single click"
+  },
+  "plugins/github-webhooks": {
+    "name": "plugins/github-webhooks",
+    "clone_url": "https://gerrit.googlesource.com/plugins/github-webhooks",
+    "description": "Expose Gerrit automation actions (e.g. importing a pull request) as GitHub hooks."
+  },
+  "plugins/gitiles": {
+    "name": "plugins/gitiles",
+    "clone_url": "https://gerrit.googlesource.com/plugins/gitiles",
+    "description": "Plugin running Gitiles alongside a Gerrit server"
+  },
+  "plugins/git-repo-metrics": {
+    "name": "plugins/git-repo-metrics",
+    "clone_url": "https://gerrit.googlesource.com/plugins/git-repo-metrics"
+  },
+  "plugins/go-import": {
+    "name": "plugins/go-import",
+    "clone_url": "https://gerrit.googlesource.com/plugins/go-import",
+    "description": "This plugin allows you to perform go get requests against a Gerrit project"
+  },
+  "plugins/google-apps-group": {
+    "name": "plugins/google-apps-group",
+    "clone_url": "https://gerrit.googlesource.com/plugins/google-apps-group",
+    "description": "Sample group backend plugin using Google Groups on a Google Apps domain."
+  },
+  "plugins/healthcheck": {
+    "name": "plugins/healthcheck",
+    "clone_url": "https://gerrit.googlesource.com/plugins/healthcheck",
+    "description": "Gerrit plugin for triggering a general configuration and runtime health check"
+  },
+  "plugins/heartbeat": {
+    "name": "plugins/heartbeat",
+    "clone_url": "https://gerrit.googlesource.com/plugins/heartbeat",
+    "description": "Plugin that sends heartbeat stream event.\n\nMain use case for this plugin is to always keep stream events alive so Jenkins\nGerrit-Trigger connection watchdog doesn\u0027t force reconnection when it detects no\nstream events activity."
+  },
+  "plugins/helloworld": {
+    "name": "plugins/helloworld",
+    "clone_url": "https://gerrit.googlesource.com/plugins/helloworld",
+    "description": "[DEPRECATED replacedBy\u003d\"plugins/cookbook-plugin\"]\n\nTemplate plugin that adds new SSH commands to a server."
+  },
+  "plugins/hide-actions": {
+    "name": "plugins/hide-actions",
+    "clone_url": "https://gerrit.googlesource.com/plugins/hide-actions",
+    "description": "Plugin that allows to hide UI actions by configuration."
+  },
+  "plugins/high-availability": {
+    "name": "plugins/high-availability",
+    "clone_url": "https://gerrit.googlesource.com/plugins/high-availability",
+    "description": "Synchronize eviction of caches, secondary indexes and stream events between two Gerrit instances sharing the same git repositories and database."
+  },
+  "plugins/hooks": {
+    "name": "plugins/hooks",
+    "clone_url": "https://gerrit.googlesource.com/plugins/hooks",
+    "description": "Server-side hooks executed on Gerrit events."
+  },
+  "plugins/hooks-audit": {
+    "name": "plugins/hooks-audit",
+    "clone_url": "https://gerrit.googlesource.com/plugins/hooks-audit",
+    "description": "Plugin(s) to enable auditing of Gerrit admin and user activity to an external logging system"
+  },
+  "plugins/hooks-bugzilla": {
+    "name": "plugins/hooks-bugzilla",
+    "clone_url": "https://gerrit.googlesource.com/plugins/hooks-bugzilla",
+    "description": "[DEPRECATED replacedBy\u003d\"plugins/its-bugzilla\"]"
+  },
+  "plugins/hooks-its": {
+    "name": "plugins/hooks-its",
+    "clone_url": "https://gerrit.googlesource.com/plugins/hooks-its",
+    "description": "[DEPRECATED replacedBy\u003d\"plugins/its-base\"]"
+  },
+  "plugins/hooks-jira": {
+    "name": "plugins/hooks-jira",
+    "clone_url": "https://gerrit.googlesource.com/plugins/hooks-jira",
+    "description": "[DEPRECATED replacedBy\u003d\"plugins/its-jira\"]"
+  },
+  "plugins/hooks-rtc": {
+    "name": "plugins/hooks-rtc",
+    "clone_url": "https://gerrit.googlesource.com/plugins/hooks-rtc",
+    "description": "[DEPRECATED replacedBy\u003d\"plugins/its-rtc\"]"
+  },
+  "plugins/imagare": {
+    "name": "plugins/imagare",
+    "clone_url": "https://gerrit.googlesource.com/plugins/imagare",
+    "description": "Plugin allows Gerrit users to upload and share images."
+  },
+  "plugins/image-diff": {
+    "name": "plugins/image-diff",
+    "clone_url": "https://gerrit.googlesource.com/plugins/image-diff",
+    "description": "An enhanced image diff plugin for PolyGerrit."
+  },
+  "plugins/importer": {
+    "name": "plugins/importer",
+    "clone_url": "https://gerrit.googlesource.com/plugins/importer",
+    "description": "Plugin to import projects from one Gerrit server into another Gerrit server."
+  },
+  "plugins/its-base": {
+    "name": "plugins/its-base",
+    "clone_url": "https://gerrit.googlesource.com/plugins/its-base",
+    "description": "Plugin base for issue tracking systems.\n\nNew project for \u0027plugins/hooks-its\u0027."
+  },
+  "plugins/its-bugzilla": {
+    "name": "plugins/its-bugzilla",
+    "clone_url": "https://gerrit.googlesource.com/plugins/its-bugzilla",
+    "description": "Plugin to integrate with Bugzilla.\n\nNew project for \u0027plugins/hooks-bugzilla\u0027."
+  },
+  "plugins/its-github": {
+    "name": "plugins/its-github",
+    "clone_url": "https://gerrit.googlesource.com/plugins/its-github",
+    "description": "Plugin to integrate with GitHub Issue Tracker."
+  },
+  "plugins/its-jira": {
+    "name": "plugins/its-jira",
+    "clone_url": "https://gerrit.googlesource.com/plugins/its-jira",
+    "description": "Plugin to integrate with Atlassian JIRA.\n\nNew project for \u0027plugins/hooks-jira\u0027."
+  },
+  "plugins/its-phabricator": {
+    "name": "plugins/its-phabricator",
+    "clone_url": "https://gerrit.googlesource.com/plugins/its-phabricator",
+    "description": "Plugin to integrate with Phabricator."
+  },
+  "plugins/its-redmine": {
+    "name": "plugins/its-redmine",
+    "clone_url": "https://gerrit.googlesource.com/plugins/its-redmine",
+    "description": "Plugin to integrate with Redmine"
+  },
+  "plugins/its-rtc": {
+    "name": "plugins/its-rtc",
+    "clone_url": "https://gerrit.googlesource.com/plugins/its-rtc",
+    "description": "Plugin to integrate with IBM Rational Team Concert.\n\nNew project for \u0027plugins/hooks-rtc\u0027."
+  },
+  "plugins/its-storyboard": {
+    "name": "plugins/its-storyboard",
+    "clone_url": "https://gerrit.googlesource.com/plugins/its-storyboard",
+    "description": "Plugin to integrate with the Storyboard Issue Tracking System"
+  },
+  "plugins/javamelody": {
+    "name": "plugins/javamelody",
+    "clone_url": "https://gerrit.googlesource.com/plugins/javamelody",
+    "description": "Plugin to monitor a Gerrit server with JavaMelody."
+  },
+  "plugins/kafka-events": {
+    "name": "plugins/kafka-events",
+    "clone_url": "https://gerrit.googlesource.com/plugins/kafka-events",
+    "description": "(ARCHIVED: use plugins/events-kafka)  Gerrit event producer for Apache Kafka"
+  },
+  "plugins/labelui": {
+    "name": "plugins/labelui",
+    "clone_url": "https://gerrit.googlesource.com/plugins/labelui",
+    "description": "The labelui plugin allows users to configure a different control for displaying the labels/approvals on the change screen."
+  },
+  "plugins/lfs": {
+    "name": "plugins/lfs",
+    "clone_url": "https://gerrit.googlesource.com/plugins/lfs",
+    "description": "LFS plugin storing large objects"
+  },
+  "plugins/lfs-storage-fs": {
+    "name": "plugins/lfs-storage-fs",
+    "clone_url": "https://gerrit.googlesource.com/plugins/lfs-storage-fs",
+    "description": "[DEPRECATED replacedBy\u003d\"plugins/lfs\"]\n\nLFS plugin storing large objects in local file system"
+  },
+  "plugins/lfs-storage-s3": {
+    "name": "plugins/lfs-storage-s3",
+    "clone_url": "https://gerrit.googlesource.com/plugins/lfs-storage-s3",
+    "description": "[DEPRECATED replacedBy\u003d\"plugins/lfs\"]\n\nLFS plugin storing large objects in an Amazon S3 bucket"
+  },
+  "plugins/login-redirect": {
+    "name": "plugins/login-redirect",
+    "clone_url": "https://gerrit.googlesource.com/plugins/login-redirect",
+    "description": "Plugin to redirect anonymous users to the login form"
+  },
+  "plugins/log-level": {
+    "name": "plugins/log-level",
+    "clone_url": "https://gerrit.googlesource.com/plugins/log-level",
+    "description": "Plugin to allow an administrator to persist configured log levels across restarts"
+  },
+  "plugins/maintainer": {
+    "name": "plugins/maintainer",
+    "clone_url": "https://gerrit.googlesource.com/plugins/maintainer"
+  },
+  "plugins/manifest-subscription": {
+    "name": "plugins/manifest-subscription",
+    "clone_url": "https://gerrit.googlesource.com/plugins/manifest-subscription",
+    "description": "This plugin allows users to monitor git-repo manifests in manifest repositories and generate rev-specific manifests (similar to \"repo manifest -o\") and store them to a separate git repository."
+  },
+  "plugins/menuextender": {
+    "name": "plugins/menuextender",
+    "clone_url": "https://gerrit.googlesource.com/plugins/menuextender",
+    "description": "Plugin that allows Gerrit administrators to configure additional menu entries from the WebUI."
+  },
+  "plugins/messageoftheday": {
+    "name": "plugins/messageoftheday",
+    "clone_url": "https://gerrit.googlesource.com/plugins/messageoftheday"
+  },
+  "plugins/metrics-reporter-cloudwatch": {
+    "name": "plugins/metrics-reporter-cloudwatch",
+    "clone_url": "https://gerrit.googlesource.com/plugins/metrics-reporter-cloudwatch",
+    "description": "This plugin reports Gerrit metrics to AWS Cloudwatch Service."
+  },
+  "plugins/metrics-reporter-elasticsearch": {
+    "name": "plugins/metrics-reporter-elasticsearch",
+    "clone_url": "https://gerrit.googlesource.com/plugins/metrics-reporter-elasticsearch",
+    "description": "[DEPRECATED]\n\nThis plugin reports Gerrit metrics to ElasticSearch Indexes."
+  },
+  "plugins/metrics-reporter-graphite": {
+    "name": "plugins/metrics-reporter-graphite",
+    "clone_url": "https://gerrit.googlesource.com/plugins/metrics-reporter-graphite",
+    "description": "This plugin reports Gerrit metrics to Graphite."
+  },
+  "plugins/metrics-reporter-jmx": {
+    "name": "plugins/metrics-reporter-jmx",
+    "clone_url": "https://gerrit.googlesource.com/plugins/metrics-reporter-jmx",
+    "description": "This plugin exposes Gerrit metrics as JMX resources."
+  },
+  "plugins/metrics-reporter-prometheus": {
+    "name": "plugins/metrics-reporter-prometheus",
+    "clone_url": "https://gerrit.googlesource.com/plugins/metrics-reporter-prometheus",
+    "description": "This plugin exposes Gerrit metrics to Prometheus (https://prometheus.io/)."
+  },
+  "plugins/motd": {
+    "name": "plugins/motd",
+    "clone_url": "https://gerrit.googlesource.com/plugins/motd",
+    "description": "Plugin that provides messages to users on fetch/pull/clone"
+  },
+  "plugins/multi-master": {
+    "name": "plugins/multi-master",
+    "clone_url": "https://gerrit.googlesource.com/plugins/multi-master",
+    "description": "Plugin(s) to enable Gerrrit multi-master operation."
+  },
+  "plugins/multi-site": {
+    "name": "plugins/multi-site",
+    "clone_url": "https://gerrit.googlesource.com/plugins/multi-site",
+    "description": "Multi-site support for Gerrit Code Review"
+  },
+  "plugins/oauth": {
+    "name": "plugins/oauth",
+    "clone_url": "https://gerrit.googlesource.com/plugins/oauth",
+    "description": "OAuth2 provider plugin. Multiple providers are supported."
+  },
+  "plugins/out-of-the-box": {
+    "name": "plugins/out-of-the-box",
+    "clone_url": "https://gerrit.googlesource.com/plugins/out-of-the-box",
+    "description": "Plugin to provide an out-of-the-box redirect for a fresh Gerrit install"
+  },
+  "plugins/owners": {
+    "name": "plugins/owners",
+    "clone_url": "https://gerrit.googlesource.com/plugins/owners",
+    "description": "Provides a Prolog predicate add_owner_approval/3 that appends label(\u0027Owner-Approval\u0027, need(_)) to a provided list."
+  },
+  "plugins/plugin-manager": {
+    "name": "plugins/plugin-manager",
+    "clone_url": "https://gerrit.googlesource.com/plugins/plugin-manager",
+    "description": "One plugin to rule them all: install new plugins from Gerrit GUI"
+  },
+  "plugins/project-download-commands": {
+    "name": "plugins/project-download-commands",
+    "clone_url": "https://gerrit.googlesource.com/plugins/project-download-commands",
+    "description": "Plugin that adds support for project specific download commands."
+  },
+  "plugins/project-group-structure": {
+    "name": "plugins/project-group-structure",
+    "clone_url": "https://gerrit.googlesource.com/plugins/project-group-structure",
+    "description": "This plugin enforce a project group structure and restrict project creation within this structure to project group owners only."
+  },
+  "plugins/prolog-submit-rules": {
+    "name": "plugins/prolog-submit-rules",
+    "clone_url": "https://gerrit.googlesource.com/plugins/prolog-submit-rules"
+  },
+  "plugins/pull-replication": {
+    "name": "plugins/pull-replication",
+    "clone_url": "https://gerrit.googlesource.com/plugins/pull-replication",
+    "description": "Mirror repos from other servers using the Git protocol"
+  },
+  "plugins/push-pull-replication": {
+    "name": "plugins/push-pull-replication",
+    "clone_url": "https://gerrit.googlesource.com/plugins/push-pull-replication",
+    "description": "Alternative Gerrit replication plugin that uses both push and pull operations as replication logic."
+  },
+  "plugins/quickstart": {
+    "name": "plugins/quickstart",
+    "clone_url": "https://gerrit.googlesource.com/plugins/quickstart",
+    "description": "Gerrit plugin for providing a Quck-start configuration during the init phase"
+  },
+  "plugins/quota": {
+    "name": "plugins/quota",
+    "clone_url": "https://gerrit.googlesource.com/plugins/quota",
+    "description": "This plugin allows to enforce quotas in Gerrit."
+  },
+  "plugins/rabbitmq": {
+    "name": "plugins/rabbitmq",
+    "clone_url": "https://gerrit.googlesource.com/plugins/rabbitmq",
+    "description": "(ARCHIVED: use plugins/events-rabbitmq) Publishes Gerrit events to RabbitMQ."
+  },
+  "plugins/rate-limiter": {
+    "name": "plugins/rate-limiter",
+    "clone_url": "https://gerrit.googlesource.com/plugins/rate-limiter",
+    "description": "Allows to enforce rate limits in Gerrit."
+  },
+  "plugins/readonly": {
+    "name": "plugins/readonly",
+    "clone_url": "https://gerrit.googlesource.com/plugins/readonly",
+    "description": "A plugin to make Gerrit run in read-only mode"
+  },
+  "plugins/ref-copy": {
+    "name": "plugins/ref-copy",
+    "clone_url": "https://gerrit.googlesource.com/plugins/ref-copy",
+    "description": "Small plugin to provide a ref-copy command."
+  },
+  "plugins/ref-protection": {
+    "name": "plugins/ref-protection",
+    "clone_url": "https://gerrit.googlesource.com/plugins/ref-protection",
+    "description": "Creates backups of refs that are deleted or non-fast-forward updated."
+  },
+  "plugins/reject-private-submit": {
+    "name": "plugins/reject-private-submit",
+    "clone_url": "https://gerrit.googlesource.com/plugins/reject-private-submit",
+    "description": "Reject submission (merging) of private changes"
+  },
+  "plugins/rename-project": {
+    "name": "plugins/rename-project",
+    "clone_url": "https://gerrit.googlesource.com/plugins/rename-project",
+    "description": "A plugin which allows projects to be renamed from Gerrit via an SSH command"
+  },
+  "plugins/reparent": {
+    "name": "plugins/reparent",
+    "clone_url": "https://gerrit.googlesource.com/plugins/reparent",
+    "description": "Plugin that provides a self-service for reparenting projects."
+  },
+  "plugins/replication": {
+    "name": "plugins/replication",
+    "clone_url": "https://gerrit.googlesource.com/plugins/replication",
+    "description": "Copies to other servers using the Git protocol"
+  },
+  "plugins/replication-status": {
+    "name": "plugins/replication-status",
+    "clone_url": "https://gerrit.googlesource.com/plugins/replication-status",
+    "description": "Record and display the repository\u0027s replication status without having to dig into the Gerrit replication_log"
+  },
+  "plugins/repository-usage": {
+    "name": "plugins/repository-usage",
+    "clone_url": "https://gerrit.googlesource.com/plugins/repository-usage",
+    "description": "Searches repositories for submodules and manifest files and saves references to a database."
+  },
+  "plugins/reviewers": {
+    "name": "plugins/reviewers",
+    "clone_url": "https://gerrit.googlesource.com/plugins/reviewers",
+    "description": "A plugin that allows adding default reviewers to a change."
+  },
+  "plugins/reviewers-by-blame": {
+    "name": "plugins/reviewers-by-blame",
+    "clone_url": "https://gerrit.googlesource.com/plugins/reviewers-by-blame",
+    "description": "A plugin that allows to automatically add reviewers to a change from the git blame computation on the changed files. It will add the users as reviewer that authored most of the lines touched by the change, since these users should be familiar with the code and can most likely review the change."
+  },
+  "plugins/reviewnotes": {
+    "name": "plugins/reviewnotes",
+    "clone_url": "https://gerrit.googlesource.com/plugins/reviewnotes",
+    "description": "Annotates merged commits using notes on refs/notes/review."
+  },
+  "plugins/review-strategy": {
+    "name": "plugins/review-strategy",
+    "clone_url": "https://gerrit.googlesource.com/plugins/review-strategy",
+    "description": "Provide configurations for custom Gerrit review strategies."
+  },
+  "plugins/saml": {
+    "name": "plugins/saml",
+    "clone_url": "https://gerrit.googlesource.com/plugins/saml",
+    "description": "Plugin for Gerrit authentication with a SAML provider"
+  },
+  "plugins/scripting/groovy-provider": {
+    "name": "plugins/scripting/groovy-provider",
+    "clone_url": "https://gerrit.googlesource.com/plugins/scripting/groovy-provider",
+    "description": "Allows the load Gerrit plugins implemented as Groovy scripts"
+  },
+  "plugins/scripting/scala-provider": {
+    "name": "plugins/scripting/scala-provider",
+    "clone_url": "https://gerrit.googlesource.com/plugins/scripting/scala-provider",
+    "description": "Allows the load Gerrit plugins implemented as Scala scripts"
+  },
+  "plugins/scripting-rules": {
+    "name": "plugins/scripting-rules",
+    "clone_url": "https://gerrit.googlesource.com/plugins/scripting-rules"
+  },
+  "plugins/scripts": {
+    "name": "plugins/scripts",
+    "clone_url": "https://gerrit.googlesource.com/plugins/scripts",
+    "description": "Scripting plugins for providing simple and useful extensions on top of Gerrit"
+  },
+  "plugins/secure-config": {
+    "name": "plugins/secure-config",
+    "clone_url": "https://gerrit.googlesource.com/plugins/secure-config",
+    "description": "Plugin to encrypt the values of secure.config."
+  },
+  "plugins/server-config": {
+    "name": "plugins/server-config",
+    "clone_url": "https://gerrit.googlesource.com/plugins/server-config",
+    "description": "This plugin enables access (download and upload) to the server config\nfiles.  It may be used to change Gerrit config files (like\netc/gerrit.config) in cases where direct access to the file system where\nGerrit\u0027s config files are stored is difficult or impossible to get."
+  },
+  "plugins/server-log-viewer": {
+    "name": "plugins/server-log-viewer",
+    "clone_url": "https://gerrit.googlesource.com/plugins/server-log-viewer",
+    "description": "Displays $site_path/logs through a web browser"
+  },
+  "plugins/serviceuser": {
+    "name": "plugins/serviceuser",
+    "clone_url": "https://gerrit.googlesource.com/plugins/serviceuser",
+    "description": "This plugin allows to create service users in Gerrit."
+  },
+  "plugins/shutdown": {
+    "name": "plugins/shutdown",
+    "clone_url": "https://gerrit.googlesource.com/plugins/shutdown",
+    "description": "Gerrit plugin to provide a graceful shutdown via RESTful API (intended for Windows Service integration)"
+  },
+  "plugins/simple-submit-rules": {
+    "name": "plugins/simple-submit-rules",
+    "clone_url": "https://gerrit.googlesource.com/plugins/simple-submit-rules"
+  },
+  "plugins/singleusergroup": {
+    "name": "plugins/singleusergroup",
+    "clone_url": "https://gerrit.googlesource.com/plugins/singleusergroup",
+    "description": "GroupBackend enabling users to be directly added to access rules"
+  },
+  "plugins/slack-integration": {
+    "name": "plugins/slack-integration",
+    "clone_url": "https://gerrit.googlesource.com/plugins/slack-integration",
+    "description": "Allows for the publishing of certain Gerrit events to a configured Slack Webhook URL."
+  },
+  "plugins/spanner-refdb": {
+    "name": "plugins/spanner-refdb",
+    "clone_url": "https://gerrit.googlesource.com/plugins/spanner-refdb"
+  },
+  "plugins/supermanifest": {
+    "name": "plugins/supermanifest",
+    "clone_url": "https://gerrit.googlesource.com/plugins/supermanifest",
+    "description": "Update superproject in response to manifest changes."
+  },
+  "plugins/sync-events": {
+    "name": "plugins/sync-events",
+    "clone_url": "https://gerrit.googlesource.com/plugins/sync-events",
+    "description": "[DEPRECATED replacedBy\u003d\"plugins/high-availability\"]\n\nAllows to share stream events between two Gerrit instances\nsharing the same git repositories and database.\n\nThis plugin is deprecated. The functionality has been merged into\n\nhttps://gerrit-review.googlesource.com/#/admin/projects/plugins/high-availability"
+  },
+  "plugins/sync-index": {
+    "name": "plugins/sync-index",
+    "clone_url": "https://gerrit.googlesource.com/plugins/sync-index",
+    "description": "[DEPRECATED replacedBy\u003d\"plugins/high-availability\"]\n\nAllows to synchronize secondary indexes between between two Gerrit instances sharing the same git repositories and database.\n\nThis plugin is deprecated. The functionality has been merged into\n\nhttps://gerrit-review.googlesource.com/#/admin/projects/plugins/high-availability"
+  },
+  "plugins/task": {
+    "name": "plugins/task",
+    "clone_url": "https://gerrit.googlesource.com/plugins/task",
+    "description": "The task plugin provides a mechanism to manage tasks which\nneed to be performed on changes along with a way to expose\nand query this information. Tasks are organized\nhierarchically, and task definitions use Gerrit queries to\ndefine which changes each task applies to, and how to define\nthe status criteria for each task. An important use case of\nthe task plugin is to have a common place for CI systems to\ndefine which changes they will operate on, and when they will\ndo so."
+  },
+  "plugins/uploadvalidator": {
+    "name": "plugins/uploadvalidator",
+    "clone_url": "https://gerrit.googlesource.com/plugins/uploadvalidator",
+    "description": "This plugin allows to configure upload validations per project.\n\nProject owners can configure blocked file extensions, required footers and a maximum allowed path length. Pushes of commits that violate these settings are rejected by Gerrit."
+  },
+  "plugins/verify-status": {
+    "name": "plugins/verify-status",
+    "clone_url": "https://gerrit.googlesource.com/plugins/verify-status",
+    "description": "Verification status plugin to visualize different jobs status that contributed to verify vote."
+  },
+  "plugins/webhooks": {
+    "name": "plugins/webhooks",
+    "clone_url": "https://gerrit.googlesource.com/plugins/webhooks",
+    "description": "This plugin allows to propagate Gerrit events to remote http endpoints."
+  },
+  "plugins/websession-broker": {
+    "name": "plugins/websession-broker",
+    "clone_url": "https://gerrit.googlesource.com/plugins/websession-broker",
+    "description": "Plugs into the builtin Gerrit WebSession implementation and broadcast websessions to an external broker"
+  },
+  "plugins/websession-flatfile": {
+    "name": "plugins/websession-flatfile",
+    "clone_url": "https://gerrit.googlesource.com/plugins/websession-flatfile",
+    "description": "Replaces the builtin Gerrit WebSession implementation with one that uses a flat file based cache."
+  },
+  "plugins/wip": {
+    "name": "plugins/wip",
+    "clone_url": "https://gerrit.googlesource.com/plugins/wip",
+    "description": "[DEPRECATED]\n\nPlugin that allows to mark changes as Work In Progress.\n\n*Warning*: As of gerrit 2.15, the support for Work In Progress workflow was added to gerrit core. This plugins is deprecated and is going to be discontinued."
+  },
+  "plugins/wmf-fixshadowuser": {
+    "name": "plugins/wmf-fixshadowuser",
+    "clone_url": "https://gerrit.googlesource.com/plugins/wmf-fixshadowuser"
+  },
+  "plugins/x-docs": {
+    "name": "plugins/x-docs",
+    "clone_url": "https://gerrit.googlesource.com/plugins/x-docs",
+    "description": "This plugin serves Markdown project documentation as HTML pages."
+  },
+  "plugins/zookeeper-refdb": {
+    "name": "plugins/zookeeper-refdb",
+    "clone_url": "https://gerrit.googlesource.com/plugins/zookeeper-refdb",
+    "description": "Zookeeper-backed reference database plugin."
+  },
+  "plugins/zuul": {
+    "name": "plugins/zuul",
+    "clone_url": "https://gerrit.googlesource.com/plugins/zuul",
+    "description": "Gerrit Zuul Plugin"
+  },
+  "plugins/zuul-results-summary": {
+    "name": "plugins/zuul-results-summary",
+    "clone_url": "https://gerrit.googlesource.com/plugins/zuul-results-summary",
+    "description": "Add a tab that shows a summary of results posted by the Zuul CI system (https://zuul-ci.org)"
+  },
+  "plugins/zuul-status": {
+    "name": "plugins/zuul-status",
+    "clone_url": "https://gerrit.googlesource.com/plugins/zuul-status",
+    "description": "Displays zuul status on PolyGerrit change"
+  },
+  "polymer-bridges": {
+    "name": "polymer-bridges",
+    "clone_url": "https://gerrit.googlesource.com/polymer-bridges"
+  },
+  "prolog-cafe": {
+    "name": "prolog-cafe",
+    "clone_url": "https://gerrit.googlesource.com/prolog-cafe",
+    "description": "Prolog Cafe: A Prolog-to-Java source-to-source translator system"
+  },
+  "Public-Plugins": {
+    "name": "Public-Plugins",
+    "clone_url": "https://gerrit.googlesource.com/Public-Plugins",
+    "description": "Parent project for plugins/*"
+  },
+  "Public-Projects": {
+    "name": "Public-Projects",
+    "clone_url": "https://gerrit.googlesource.com/Public-Projects",
+    "description": "Parent project enabling Anonymous Users read"
+  },
+  "summit/2015": {
+    "name": "summit/2015",
+    "clone_url": "https://gerrit.googlesource.com/summit/2015"
+  },
+  "summit/2016": {
+    "name": "summit/2016",
+    "clone_url": "https://gerrit.googlesource.com/summit/2016"
+  },
+  "summit/2017": {
+    "name": "summit/2017",
+    "clone_url": "https://gerrit.googlesource.com/summit/2017",
+    "description": "Gerrit User Summit 2017"
+  },
+  "summit/2018": {
+    "name": "summit/2018",
+    "clone_url": "https://gerrit.googlesource.com/summit/2018",
+    "description": "Gerrit User Summit 2018"
+  },
+  "summit/2019": {
+    "name": "summit/2019",
+    "clone_url": "https://gerrit.googlesource.com/summit/2019",
+    "description": "Gerrit User Summit 2019"
+  },
+  "summit/2021": {
+    "name": "summit/2021",
+    "clone_url": "https://gerrit.googlesource.com/summit/2021",
+    "description": "Gerrit User Summit 2021"
+  },
+  "summit/2022": {
+    "name": "summit/2022",
+    "clone_url": "https://gerrit.googlesource.com/summit/2022",
+    "description": "Gerrit User Summit 2022"
+  },
+  "TestRepo": {
+    "name": "TestRepo",
+    "clone_url": "https://gerrit.googlesource.com/TestRepo"
+  },
+  "training/gerrit": {
+    "name": "training/gerrit",
+    "clone_url": "https://gerrit.googlesource.com/training/gerrit",
+    "description": "Gerrit related training and info material"
+  },
+  "training/sample": {
+    "name": "training/sample",
+    "clone_url": "https://gerrit.googlesource.com/training/sample",
+    "description": "Sample project for the exercises of the Git/Gerrit Workshop.\nThis project is reset from time to time to the workshop-start tag. If you want to use this project for the exercises you may also request from the Gerrit maintainers to reset this project."
+  },
+  "zoekt": {
+    "name": "zoekt",
+    "clone_url": "https://gerrit.googlesource.com/zoekt",
+    "description": "Fast trigram based code search"
+  },
+  "zookeeper-refdb": {
+    "name": "zookeeper-refdb",
+    "clone_url": "https://gerrit.googlesource.com/zookeeper-refdb",
+    "description": "Cluster-enabled Git storage powered by Apache ZooKeeper"
+  },
+  "zuul/config": {
+    "name": "zuul/config",
+    "clone_url": "https://gerrit.googlesource.com/zuul/config"
+  },
+  "zuul/jobs": {
+    "name": "zuul/jobs",
+    "clone_url": "https://gerrit.googlesource.com/zuul/jobs"
+  },
+  "zuul/ops": {
+    "name": "zuul/ops",
+    "clone_url": "https://gerrit.googlesource.com/zuul/ops"
+  }
+}
